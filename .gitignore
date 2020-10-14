@@ -34,3 +34,4 @@ cognito.js
 .vscode
 .eslintcache
 *.iml
+/cmd.txt
