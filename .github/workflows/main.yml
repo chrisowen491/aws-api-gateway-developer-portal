@@ -20,7 +20,7 @@ jobs:
         with:
           token: ${{secrets.github_token}}
       - name: SAM Deploy
-        uses: falnyr/aws-sam-deploy-action@v1.0.0
+        uses: chrisowen491/aws-sam-deploy-action@v1.2.2
         env:
           TEMPLATE: './cloudformation/template.yaml'
           AWS_STACK_NAME: portal
