@@ -6,7 +6,7 @@ gettingStartedButton: Get Started
 apiListButton: Our APIs
 ---
 
-### EXPLORE AND BUILD
+### EXPLORE AND BUILD OK
         
 Read the Getting Started guide to learn how to hit the ground running to get an application up and running in no time.
 
